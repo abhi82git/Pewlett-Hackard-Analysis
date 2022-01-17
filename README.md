@@ -53,6 +53,6 @@ The query below will try to identify if any of the departments has a manager who
 
 ![manager department queries](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/managers_retiring_query.png)
 
-![Departments whose managers are retiring](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/managers_retiring_result.png)
+![Departments whose managers are retiring](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/f939cc7c4926a230526931585819b98f64a11a1e/Resources/managers_dept_retiring_result.png)
 
 As the above snapshot shows, Sales and Research have managers retiring in near future and needs extra attention from management.
