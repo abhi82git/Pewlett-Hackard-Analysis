@@ -18,7 +18,7 @@ Pewlett-Hackard has a lot of employees ready to retire in near future. The compa
 
 - The retiring_titles.csv lists the number of employees for each position who are retiring. Senior Engineer and Senior Staff constitute nearly 70% of all employees about to retire.
 
-![retiring_titles](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/retiring_titles.png)
+![retiring_titles](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/Retiring_titles.png)
 
 - The mentorship_eligibilty.csv identied the employees to provide mentorship.
 
